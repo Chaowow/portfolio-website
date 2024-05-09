@@ -33,7 +33,7 @@ function Contact() {
               focus:outline-none"
             />
             <button
-              type='button'
+              type='submit'
               className="text-center inline-block px-8 py-3 w-max text-base
               font-medium rounded-md text-white bg-gradient-to-r from-blue-500
               to-purple-500 drop-shadow-md hover:stroke-white"
